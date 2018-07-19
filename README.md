@@ -1,2 +1,2 @@
-# canvasDemo
-canvasDemo
+# threejsDemo
+threejsDemo
